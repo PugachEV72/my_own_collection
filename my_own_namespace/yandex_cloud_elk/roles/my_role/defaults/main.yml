@@ -1,0 +1,5 @@
+---
+# defaults file for my_role
+path: './test_file.txt'
+content: "This is a test content"
+
